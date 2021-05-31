@@ -1,0 +1,35 @@
+body{
+    background-color: whitesmoke;
+}
+.menu{
+    display: flex;
+    background-color: black;
+    font-size: 20px;
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.hamburger a{
+    color: white;
+}
+.about a{
+    color: white;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: 'Courier New';
+}
